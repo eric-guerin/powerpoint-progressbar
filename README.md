@@ -25,3 +25,7 @@ the code in it. Then, each time you want to update the progress bar, just
 execute it. If a progress bar has already been inserted, it will be 
 automatically removed.
 
+## Snapshot
+
+![Snapshot of the interface](https://github.com/eric-guerin/powerpoint-progressbar/raw/master/snapshot.png "Snapshot")
+
